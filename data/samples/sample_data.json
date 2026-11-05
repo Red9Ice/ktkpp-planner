@@ -1,0 +1,88 @@
+{
+  "college": "КОГПОАУ КТКПП",
+  "groups": [
+    {"id": 1, "code": "ИС-11", "name": "Информационные системы и программирование", "course": 1, "size": 25, "subgroups_count": 2},
+    {"id": 2, "code": "ИС-12", "name": "Информационные системы и программирование", "course": 1, "size": 25, "subgroups_count": 2},
+    {"id": 3, "code": "С-11", "name": "Строительство и эксплуатация зданий и сооружений", "course": 1, "size": 26, "subgroups_count": 2},
+    {"id": 4, "code": "АП-11", "name": "Автоматизация технологических процессов", "course": 1, "size": 24, "subgroups_count": 2},
+    {"id": 5, "code": "ТК-21", "name": "Коммерция (по отраслям)", "course": 2, "size": 25, "subgroups_count": 2}
+  ],
+  "subgroups": [
+    {"id": 1, "group_id": 1, "subgroup_num": 1, "name": "ИС-11 (ПГ.1)", "size": 13},
+    {"id": 2, "group_id": 1, "subgroup_num": 2, "name": "ИС-11 (ПГ.2)", "size": 12},
+    {"id": 3, "group_id": 2, "subgroup_num": 1, "name": "ИС-12 (ПГ.1)", "size": 13},
+    {"id": 4, "group_id": 2, "subgroup_num": 2, "name": "ИС-12 (ПГ.2)", "size": 12},
+    {"id": 5, "group_id": 3, "subgroup_num": 1, "name": "С-11 (ПГ.1)", "size": 13},
+    {"id": 6, "group_id": 3, "subgroup_num": 2, "name": "С-11 (ПГ.2)", "size": 13},
+    {"id": 7, "group_id": 4, "subgroup_num": 1, "name": "АП-11 (ПГ.1)", "size": 12},
+    {"id": 8, "group_id": 4, "subgroup_num": 2, "name": "АП-11 (ПГ.2)", "size": 12},
+    {"id": 9, "group_id": 5, "subgroup_num": 1, "name": "ТК-21 (ПГ.1)", "size": 13},
+    {"id": 10, "group_id": 5, "subgroup_num": 2, "name": "ТК-21 (ПГ.2)", "size": 12}
+  ],
+  "teachers": [
+    {"id": 1, "full_name": "Иванов Иван Иванович", "short_name": "Иванов И.И.", "email": "ivanov@ktkpp.ru", "max_hours_per_day": 6, "is_active": true},
+    {"id": 2, "full_name": "Петрова Анна Сергеевна", "short_name": "Петрова А.С.", "email": "petrova@ktkpp.ru", "max_hours_per_day": 6, "is_active": true},
+    {"id": 3, "full_name": "Смирнов Алексей Владимирович", "short_name": "Смирнов А.В.", "email": "smirnov@ktkpp.ru", "max_hours_per_day": 6, "is_active": true},
+    {"id": 4, "full_name": "Кузнецова Елена Павловна", "short_name": "Кузнецова Е.П.", "email": "kuznetsova@ktkpp.ru", "max_hours_per_day": 6, "is_active": true},
+    {"id": 5, "full_name": "Соколов Дмитрий Николаевич", "short_name": "Соколов Д.Н.", "email": "sokolov@ktkpp.ru", "max_hours_per_day": 6, "is_active": true},
+    {"id": 6, "full_name": "Морозова Ольга Игоревна", "short_name": "Морозова О.И.", "email": "morozova@ktkpp.ru", "max_hours_per_day": 6, "is_active": true},
+    {"id": 7, "full_name": "Васильев Сергей Михайлович", "short_name": "Васильев С.М.", "email": "vasiliev@ktkpp.ru", "max_hours_per_day": 6, "is_active": true},
+    {"id": 8, "full_name": "Попова Наталья Юрьевна", "short_name": "Попова Н.Ю.", "email": "popova@ktkpp.ru", "max_hours_per_day": 6, "is_active": true}
+  ],
+  "rooms": [
+    {"id": 1, "number": "205", "room_type": "classroom", "capacity": 30, "is_active": true},
+    {"id": 2, "number": "302", "room_type": "classroom", "capacity": 30, "is_active": true},
+    {"id": 3, "number": "406", "room_type": "classroom", "capacity": 30, "is_active": true},
+    {"id": 4, "number": "105в", "room_type": "chemistry_lab", "capacity": 30, "is_active": true},
+    {"id": 5, "number": "201в", "room_type": "computer", "capacity": 18, "is_active": true},
+    {"id": 6, "number": "403", "room_type": "computer", "capacity": 18, "is_active": true},
+    {"id": 7, "number": "206", "room_type": "language", "capacity": 18, "is_active": true},
+    {"id": 8, "number": "208", "room_type": "language", "capacity": 18, "is_active": true},
+    {"id": 9, "number": "203в", "room_type": "obzr_lab", "capacity": 30, "is_active": true},
+    {"id": 10, "number": "С/з", "room_type": "gym", "capacity": 80, "is_active": true}
+  ],
+  "subjects": [
+    {"id": 1, "code": "РАЗГ", "name": "Разговоры о важном", "short_name": "Разговоры о важном", "required_room_type": "classroom"},
+    {"id": 2, "code": "МАТ", "name": "Математика", "short_name": "Математика", "required_room_type": "classroom"},
+    {"id": 3, "code": "ИНФ", "name": "Информатика", "short_name": "Информатика", "required_room_type": "computer"},
+    {"id": 4, "code": "ИНЯЗ", "name": "Иностранный язык", "short_name": "Иностранный язык", "required_room_type": "language"},
+    {"id": 5, "code": "РУС", "name": "Русский язык", "short_name": "Русский язык", "required_room_type": "classroom"},
+    {"id": 6, "code": "ФИЗ", "name": "Физика", "short_name": "Физика", "required_room_type": "classroom"},
+    {"id": 7, "code": "ХИМ", "name": "Химия", "short_name": "Химия", "required_room_type": "chemistry_lab"},
+    {"id": 8, "code": "ФК", "name": "Физическая культура", "short_name": "ФК", "required_room_type": "gym"},
+    {"id": 9, "code": "ОБИЗР", "name": "Основы безопасности и защиты Родины", "short_name": "ОБиЗР", "required_room_type": "obzr_lab"},
+    {"id": 10, "code": "МДК0101", "name": "МДК 01.01", "short_name": "МДК 01.01", "required_room_type": "classroom"}
+  ],
+  "curriculum_workload": [
+    {"id": 1, "group_id": 1, "subject_id": 1, "teacher_id": 2, "lesson_type": "whole_group", "pairs_per_week": 1, "preferred_room_id": 1},
+    {"id": 2, "group_id": 1, "subject_id": 2, "teacher_id": 2, "lesson_type": "whole_group", "pairs_per_week": 3, "preferred_room_id": 2},
+    {"id": 3, "group_id": 1, "subject_id": 3, "teacher_id": 1, "lesson_type": "split", "pairs_per_week": 2, "preferred_room_id": 5},
+    {"id": 4, "group_id": 1, "subject_id": 4, "teacher_id": 5, "lesson_type": "split", "pairs_per_week": 2, "preferred_room_id": 7},
+    {"id": 5, "group_id": 1, "subject_id": 6, "teacher_id": 6, "lesson_type": "whole_group", "pairs_per_week": 2, "preferred_room_id": 1},
+    {"id": 6, "group_id": 1, "subject_id": 8, "teacher_id": 7, "lesson_type": "whole_group", "pairs_per_week": 2, "preferred_room_id": 10},
+
+    {"id": 7, "group_id": 2, "subject_id": 1, "teacher_id": 3, "lesson_type": "whole_group", "pairs_per_week": 1, "preferred_room_id": 6},
+    {"id": 8, "group_id": 2, "subject_id": 2, "teacher_id": 2, "lesson_type": "whole_group", "pairs_per_week": 3, "preferred_room_id": 2},
+    {"id": 9, "group_id": 2, "subject_id": 3, "teacher_id": 1, "lesson_type": "split", "pairs_per_week": 2, "preferred_room_id": 6},
+    {"id": 10, "group_id": 2, "subject_id": 4, "teacher_id": 5, "lesson_type": "split", "pairs_per_week": 2, "preferred_room_id": 8},
+    {"id": 11, "group_id": 2, "subject_id": 7, "teacher_id": 4, "lesson_type": "whole_group", "pairs_per_week": 2, "preferred_room_id": 4},
+    {"id": 12, "group_id": 2, "subject_id": 8, "teacher_id": 7, "lesson_type": "whole_group", "pairs_per_week": 2, "preferred_room_id": 10},
+
+    {"id": 13, "group_id": 3, "subject_id": 1, "teacher_id": 4, "lesson_type": "whole_group", "pairs_per_week": 1, "preferred_room_id": 3},
+    {"id": 14, "group_id": 3, "subject_id": 2, "teacher_id": 2, "lesson_type": "whole_group", "pairs_per_week": 3, "preferred_room_id": 2},
+    {"id": 15, "group_id": 3, "subject_id": 4, "teacher_id": 5, "lesson_type": "split", "pairs_per_week": 2, "preferred_room_id": 7},
+    {"id": 16, "group_id": 3, "subject_id": 8, "teacher_id": 7, "lesson_type": "whole_group", "pairs_per_week": 2, "preferred_room_id": 10},
+    {"id": 17, "group_id": 3, "subject_id": 9, "teacher_id": 8, "lesson_type": "whole_group", "pairs_per_week": 2, "preferred_room_id": 9},
+
+    {"id": 18, "group_id": 4, "subject_id": 1, "teacher_id": 6, "lesson_type": "whole_group", "pairs_per_week": 1, "preferred_room_id": 1},
+    {"id": 19, "group_id": 4, "subject_id": 2, "teacher_id": 2, "lesson_type": "whole_group", "pairs_per_week": 3, "preferred_room_id": 2},
+    {"id": 20, "group_id": 4, "subject_id": 3, "teacher_id": 1, "lesson_type": "split", "pairs_per_week": 2, "preferred_room_id": 5},
+    {"id": 21, "group_id": 4, "subject_id": 4, "teacher_id": 5, "lesson_type": "split", "pairs_per_week": 2, "preferred_room_id": 7},
+    {"id": 22, "group_id": 4, "subject_id": 8, "teacher_id": 7, "lesson_type": "whole_group", "pairs_per_week": 2, "preferred_room_id": 10},
+
+    {"id": 23, "group_id": 5, "subject_id": 10, "teacher_id": 3, "lesson_type": "whole_group", "pairs_per_week": 4, "preferred_room_id": 1},
+    {"id": 24, "group_id": 5, "subject_id": 3, "teacher_id": 1, "lesson_type": "split", "pairs_per_week": 2, "preferred_room_id": 6},
+    {"id": 25, "group_id": 5, "subject_id": 8, "teacher_id": 7, "lesson_type": "whole_group", "pairs_per_week": 2, "preferred_room_id": 10}
+  ],
+  "availability_constraints": []
+}

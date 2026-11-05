@@ -1,0 +1,3891 @@
+﻿{
+    "college":  "КОГПОАУ КТКПП",
+    "groups":  [
+                   {
+                       "id":  1,
+                       "code":  "С-11",
+                       "name":  "Строительство и эксплуатация зданий и сооружений",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  2,
+                       "code":  "ОС-11",
+                       "name":  "Отделочные строительные работы",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  3,
+                       "code":  "ИС-11",
+                       "name":  "Информационные системы и программирование",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  4,
+                       "code":  "ИС-12",
+                       "name":  "Информационные системы и программирование",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  5,
+                       "code":  "АП-11",
+                       "name":  "Автоматизация технологических процессов и производств",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  6,
+                       "code":  "АП-12",
+                       "name":  "Автоматизация технологических процессов и производств",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  7,
+                       "code":  "ТХ-11",
+                       "name":  "Технология хлеба, кондитерских и макаронных изделий",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  8,
+                       "code":  "З-12",
+                       "name":  "Земельно-имущественные отношения",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  9,
+                       "code":  "Т-11",
+                       "name":  "Технология продукции общественного питания",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  10,
+                       "code":  "ТД-11",
+                       "name":  "Товароведение и экспертиза качества потребительских товаров",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  11,
+                       "code":  "ТК-11",
+                       "name":  "Коммерция (по отраслям)",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  12,
+                       "code":  "ТК-12",
+                       "name":  "Коммерция (по отраслям)",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  13,
+                       "code":  "ГД-12",
+                       "name":  "Гостиничное дело",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  14,
+                       "code":  "ПД-11",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  15,
+                       "code":  "ПД-12",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  16,
+                       "code":  "ТМ-11",
+                       "name":  "Технология мяса и мясных продуктов",
+                       "course":  1,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  17,
+                       "code":  "ТК-21",
+                       "name":  "Коммерция (по отраслям)",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  18,
+                       "code":  "ТК-22",
+                       "name":  "Коммерция (по отраслям)",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  19,
+                       "code":  "ПД-21",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  20,
+                       "code":  "ПД-22",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  21,
+                       "code":  "ПД-23",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  22,
+                       "code":  "С-21",
+                       "name":  "Строительство и эксплуатация зданий и сооружений",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  23,
+                       "code":  "ОС-21",
+                       "name":  "Отделочные строительные работы",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  24,
+                       "code":  "ИС-21",
+                       "name":  "Информационные системы и программирование",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  25,
+                       "code":  "ИС-22",
+                       "name":  "Информационные системы и программирование",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  26,
+                       "code":  "ГД-22",
+                       "name":  "Гостиничное дело",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  27,
+                       "code":  "АП-21",
+                       "name":  "Автоматизация технологических процессов и производств",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  28,
+                       "code":  "Т-21",
+                       "name":  "Технология продукции общественного питания",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  29,
+                       "code":  "ТД-21",
+                       "name":  "Товароведение и торговое дело",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  30,
+                       "code":  "ТХ-21",
+                       "name":  "Технология хлеба, кондитерских и макаронных изделий",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  31,
+                       "code":  "З-22",
+                       "name":  "Земельно-имущественные отношения",
+                       "course":  2,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  32,
+                       "code":  "ПД-31",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  3,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  33,
+                       "code":  "ПД-32",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  3,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  34,
+                       "code":  "ТК-31",
+                       "name":  "Коммерция (по отраслям)",
+                       "course":  3,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  35,
+                       "code":  "Т-31",
+                       "name":  "Технология продукции общественного питания",
+                       "course":  3,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  36,
+                       "code":  "ТД-31",
+                       "name":  "Товароведение и торговое дело",
+                       "course":  3,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  37,
+                       "code":  "З-32",
+                       "name":  "Земельно-имущественные отношения",
+                       "course":  3,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  38,
+                       "code":  "ТХ-31",
+                       "name":  "Технология хлеба, кондитерских и макаронных изделий",
+                       "course":  3,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  39,
+                       "code":  "ПД-41",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  4,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  40,
+                       "code":  "ПД-42",
+                       "name":  "Поварское и кондитерское дело",
+                       "course":  4,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  41,
+                       "code":  "ТК-41",
+                       "name":  "Коммерция (по отраслям)",
+                       "course":  4,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  42,
+                       "code":  "Т-41",
+                       "name":  "Технология продукции общественного питания",
+                       "course":  4,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  43,
+                       "code":  "ТХ-41",
+                       "name":  "Технология хлеба, кондитерских и макаронных изделий",
+                       "course":  4,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  44,
+                       "code":  "З-41",
+                       "name":  "Земельно-имущественные отношения",
+                       "course":  4,
+                       "size":  25,
+                       "subgroups_count":  2
+                   },
+                   {
+                       "id":  45,
+                       "code":  "З-42",
+                       "name":  "Земельно-имущественные отношения",
+                       "course":  4,
+                       "size":  25,
+                       "subgroups_count":  2
+                   }
+               ],
+    "subgroups":  [
+                      {
+                          "id":  1,
+                          "group_id":  1,
+                          "subgroup_num":  1,
+                          "name":  "С-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  2,
+                          "group_id":  1,
+                          "subgroup_num":  2,
+                          "name":  "С-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  3,
+                          "group_id":  2,
+                          "subgroup_num":  1,
+                          "name":  "ОС-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  4,
+                          "group_id":  2,
+                          "subgroup_num":  2,
+                          "name":  "ОС-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  5,
+                          "group_id":  3,
+                          "subgroup_num":  1,
+                          "name":  "ИС-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  6,
+                          "group_id":  3,
+                          "subgroup_num":  2,
+                          "name":  "ИС-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  7,
+                          "group_id":  4,
+                          "subgroup_num":  1,
+                          "name":  "ИС-12 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  8,
+                          "group_id":  4,
+                          "subgroup_num":  2,
+                          "name":  "ИС-12 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  9,
+                          "group_id":  5,
+                          "subgroup_num":  1,
+                          "name":  "АП-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  10,
+                          "group_id":  5,
+                          "subgroup_num":  2,
+                          "name":  "АП-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  11,
+                          "group_id":  6,
+                          "subgroup_num":  1,
+                          "name":  "АП-12 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  12,
+                          "group_id":  6,
+                          "subgroup_num":  2,
+                          "name":  "АП-12 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  13,
+                          "group_id":  7,
+                          "subgroup_num":  1,
+                          "name":  "ТХ-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  14,
+                          "group_id":  7,
+                          "subgroup_num":  2,
+                          "name":  "ТХ-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  15,
+                          "group_id":  8,
+                          "subgroup_num":  1,
+                          "name":  "З-12 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  16,
+                          "group_id":  8,
+                          "subgroup_num":  2,
+                          "name":  "З-12 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  17,
+                          "group_id":  9,
+                          "subgroup_num":  1,
+                          "name":  "Т-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  18,
+                          "group_id":  9,
+                          "subgroup_num":  2,
+                          "name":  "Т-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  19,
+                          "group_id":  10,
+                          "subgroup_num":  1,
+                          "name":  "ТД-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  20,
+                          "group_id":  10,
+                          "subgroup_num":  2,
+                          "name":  "ТД-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  21,
+                          "group_id":  11,
+                          "subgroup_num":  1,
+                          "name":  "ТК-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  22,
+                          "group_id":  11,
+                          "subgroup_num":  2,
+                          "name":  "ТК-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  23,
+                          "group_id":  12,
+                          "subgroup_num":  1,
+                          "name":  "ТК-12 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  24,
+                          "group_id":  12,
+                          "subgroup_num":  2,
+                          "name":  "ТК-12 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  25,
+                          "group_id":  13,
+                          "subgroup_num":  1,
+                          "name":  "ГД-12 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  26,
+                          "group_id":  13,
+                          "subgroup_num":  2,
+                          "name":  "ГД-12 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  27,
+                          "group_id":  14,
+                          "subgroup_num":  1,
+                          "name":  "ПД-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  28,
+                          "group_id":  14,
+                          "subgroup_num":  2,
+                          "name":  "ПД-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  29,
+                          "group_id":  15,
+                          "subgroup_num":  1,
+                          "name":  "ПД-12 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  30,
+                          "group_id":  15,
+                          "subgroup_num":  2,
+                          "name":  "ПД-12 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  31,
+                          "group_id":  16,
+                          "subgroup_num":  1,
+                          "name":  "ТМ-11 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  32,
+                          "group_id":  16,
+                          "subgroup_num":  2,
+                          "name":  "ТМ-11 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  33,
+                          "group_id":  17,
+                          "subgroup_num":  1,
+                          "name":  "ТК-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  34,
+                          "group_id":  17,
+                          "subgroup_num":  2,
+                          "name":  "ТК-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  35,
+                          "group_id":  18,
+                          "subgroup_num":  1,
+                          "name":  "ТК-22 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  36,
+                          "group_id":  18,
+                          "subgroup_num":  2,
+                          "name":  "ТК-22 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  37,
+                          "group_id":  19,
+                          "subgroup_num":  1,
+                          "name":  "ПД-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  38,
+                          "group_id":  19,
+                          "subgroup_num":  2,
+                          "name":  "ПД-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  39,
+                          "group_id":  20,
+                          "subgroup_num":  1,
+                          "name":  "ПД-22 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  40,
+                          "group_id":  20,
+                          "subgroup_num":  2,
+                          "name":  "ПД-22 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  41,
+                          "group_id":  21,
+                          "subgroup_num":  1,
+                          "name":  "ПД-23 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  42,
+                          "group_id":  21,
+                          "subgroup_num":  2,
+                          "name":  "ПД-23 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  43,
+                          "group_id":  22,
+                          "subgroup_num":  1,
+                          "name":  "С-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  44,
+                          "group_id":  22,
+                          "subgroup_num":  2,
+                          "name":  "С-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  45,
+                          "group_id":  23,
+                          "subgroup_num":  1,
+                          "name":  "ОС-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  46,
+                          "group_id":  23,
+                          "subgroup_num":  2,
+                          "name":  "ОС-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  47,
+                          "group_id":  24,
+                          "subgroup_num":  1,
+                          "name":  "ИС-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  48,
+                          "group_id":  24,
+                          "subgroup_num":  2,
+                          "name":  "ИС-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  49,
+                          "group_id":  25,
+                          "subgroup_num":  1,
+                          "name":  "ИС-22 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  50,
+                          "group_id":  25,
+                          "subgroup_num":  2,
+                          "name":  "ИС-22 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  51,
+                          "group_id":  26,
+                          "subgroup_num":  1,
+                          "name":  "ГД-22 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  52,
+                          "group_id":  26,
+                          "subgroup_num":  2,
+                          "name":  "ГД-22 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  53,
+                          "group_id":  27,
+                          "subgroup_num":  1,
+                          "name":  "АП-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  54,
+                          "group_id":  27,
+                          "subgroup_num":  2,
+                          "name":  "АП-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  55,
+                          "group_id":  28,
+                          "subgroup_num":  1,
+                          "name":  "Т-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  56,
+                          "group_id":  28,
+                          "subgroup_num":  2,
+                          "name":  "Т-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  57,
+                          "group_id":  29,
+                          "subgroup_num":  1,
+                          "name":  "ТД-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  58,
+                          "group_id":  29,
+                          "subgroup_num":  2,
+                          "name":  "ТД-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  59,
+                          "group_id":  30,
+                          "subgroup_num":  1,
+                          "name":  "ТХ-21 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  60,
+                          "group_id":  30,
+                          "subgroup_num":  2,
+                          "name":  "ТХ-21 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  61,
+                          "group_id":  31,
+                          "subgroup_num":  1,
+                          "name":  "З-22 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  62,
+                          "group_id":  31,
+                          "subgroup_num":  2,
+                          "name":  "З-22 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  63,
+                          "group_id":  32,
+                          "subgroup_num":  1,
+                          "name":  "ПД-31 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  64,
+                          "group_id":  32,
+                          "subgroup_num":  2,
+                          "name":  "ПД-31 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  65,
+                          "group_id":  33,
+                          "subgroup_num":  1,
+                          "name":  "ПД-32 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  66,
+                          "group_id":  33,
+                          "subgroup_num":  2,
+                          "name":  "ПД-32 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  67,
+                          "group_id":  34,
+                          "subgroup_num":  1,
+                          "name":  "ТК-31 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  68,
+                          "group_id":  34,
+                          "subgroup_num":  2,
+                          "name":  "ТК-31 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  69,
+                          "group_id":  35,
+                          "subgroup_num":  1,
+                          "name":  "Т-31 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  70,
+                          "group_id":  35,
+                          "subgroup_num":  2,
+                          "name":  "Т-31 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  71,
+                          "group_id":  36,
+                          "subgroup_num":  1,
+                          "name":  "ТД-31 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  72,
+                          "group_id":  36,
+                          "subgroup_num":  2,
+                          "name":  "ТД-31 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  73,
+                          "group_id":  37,
+                          "subgroup_num":  1,
+                          "name":  "З-32 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  74,
+                          "group_id":  37,
+                          "subgroup_num":  2,
+                          "name":  "З-32 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  75,
+                          "group_id":  38,
+                          "subgroup_num":  1,
+                          "name":  "ТХ-31 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  76,
+                          "group_id":  38,
+                          "subgroup_num":  2,
+                          "name":  "ТХ-31 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  77,
+                          "group_id":  39,
+                          "subgroup_num":  1,
+                          "name":  "ПД-41 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  78,
+                          "group_id":  39,
+                          "subgroup_num":  2,
+                          "name":  "ПД-41 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  79,
+                          "group_id":  40,
+                          "subgroup_num":  1,
+                          "name":  "ПД-42 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  80,
+                          "group_id":  40,
+                          "subgroup_num":  2,
+                          "name":  "ПД-42 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  81,
+                          "group_id":  41,
+                          "subgroup_num":  1,
+                          "name":  "ТК-41 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  82,
+                          "group_id":  41,
+                          "subgroup_num":  2,
+                          "name":  "ТК-41 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  83,
+                          "group_id":  42,
+                          "subgroup_num":  1,
+                          "name":  "Т-41 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  84,
+                          "group_id":  42,
+                          "subgroup_num":  2,
+                          "name":  "Т-41 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  85,
+                          "group_id":  43,
+                          "subgroup_num":  1,
+                          "name":  "ТХ-41 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  86,
+                          "group_id":  43,
+                          "subgroup_num":  2,
+                          "name":  "ТХ-41 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  87,
+                          "group_id":  44,
+                          "subgroup_num":  1,
+                          "name":  "З-41 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  88,
+                          "group_id":  44,
+                          "subgroup_num":  2,
+                          "name":  "З-41 (ПГ.2)",
+                          "size":  12
+                      },
+                      {
+                          "id":  89,
+                          "group_id":  45,
+                          "subgroup_num":  1,
+                          "name":  "З-42 (ПГ.1)",
+                          "size":  13
+                      },
+                      {
+                          "id":  90,
+                          "group_id":  45,
+                          "subgroup_num":  2,
+                          "name":  "З-42 (ПГ.2)",
+                          "size":  12
+                      }
+                  ],
+    "rooms":  [
+                  {
+                      "id":  1,
+                      "number":  "1",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  2,
+                      "number":  "4",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  3,
+                      "number":  "5",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  4,
+                      "number":  "30",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  5,
+                      "number":  "31",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  6,
+                      "number":  "33",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  7,
+                      "number":  "35",
+                      "room_type":  "language",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  8,
+                      "number":  "36",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  9,
+                      "number":  "40",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  10,
+                      "number":  "41",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  11,
+                      "number":  "43",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  12,
+                      "number":  "45",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  13,
+                      "number":  "46",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  14,
+                      "number":  "48",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  15,
+                      "number":  "50",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  16,
+                      "number":  "51",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  17,
+                      "number":  "52",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  18,
+                      "number":  "202",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  19,
+                      "number":  "204",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  20,
+                      "number":  "205",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  21,
+                      "number":  "207",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  22,
+                      "number":  "209",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  23,
+                      "number":  "212",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  24,
+                      "number":  "301",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  25,
+                      "number":  "302",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  26,
+                      "number":  "306",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  27,
+                      "number":  "307",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  28,
+                      "number":  "401",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  29,
+                      "number":  "402",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  30,
+                      "number":  "405",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  31,
+                      "number":  "406",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  32,
+                      "number":  "407",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  33,
+                      "number":  "105в",
+                      "room_type":  "chemistry_lab",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  34,
+                      "number":  "201",
+                      "room_type":  "computer",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  35,
+                      "number":  "201в",
+                      "room_type":  "computer",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  36,
+                      "number":  "203",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  37,
+                      "number":  "203б",
+                      "room_type":  "computer",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  38,
+                      "number":  "203в",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  39,
+                      "number":  "205б",
+                      "room_type":  "classroom",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  40,
+                      "number":  "206",
+                      "room_type":  "language",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  41,
+                      "number":  "206б",
+                      "room_type":  "computer",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  42,
+                      "number":  "208",
+                      "room_type":  "language",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  43,
+                      "number":  "403",
+                      "room_type":  "computer",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  44,
+                      "number":  "404",
+                      "room_type":  "computer",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  45,
+                      "number":  "Мастерская 103б",
+                      "room_type":  "workshop",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  46,
+                      "number":  "С/з",
+                      "room_type":  "gym",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  47,
+                      "number":  "Библ",
+                      "room_type":  "library",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  48,
+                      "number":  "К/з",
+                      "room_type":  "hall",
+                      "capacity":  30,
+                      "is_active":  true
+                  },
+                  {
+                      "id":  49,
+                      "number":  "Акт.зал",
+                      "room_type":  "hall",
+                      "capacity":  30,
+                      "is_active":  true
+                  }
+              ],
+    "subjects":  [
+                     {
+                         "id":  1,
+                         "code":  "РАЗГ",
+                         "name":  "Разговоры о важном",
+                         "short_name":  "Разговоры о важном",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  2,
+                         "code":  "КЛЧАС",
+                         "name":  "Классный час",
+                         "short_name":  "Классный час",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  3,
+                         "code":  "МАТ",
+                         "name":  "Математика",
+                         "short_name":  "Математика",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  4,
+                         "code":  "РУС",
+                         "name":  "Русский язык",
+                         "short_name":  "Русский язык",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  5,
+                         "code":  "ЛИТ",
+                         "name":  "Литература",
+                         "short_name":  "Литература",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  6,
+                         "code":  "ИСТ",
+                         "name":  "История России",
+                         "short_name":  "История",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  7,
+                         "code":  "ОБЩ",
+                         "name":  "Обществознание",
+                         "short_name":  "Обществознание",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  8,
+                         "code":  "ФИЗ",
+                         "name":  "Физика",
+                         "short_name":  "Физика",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  9,
+                         "code":  "ХИМ",
+                         "name":  "Химия",
+                         "short_name":  "Химия",
+                         "required_room_type":  "chemistry_lab"
+                     },
+                     {
+                         "id":  10,
+                         "code":  "БИО",
+                         "name":  "Биология",
+                         "short_name":  "Биология",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  11,
+                         "code":  "ГЕО",
+                         "name":  "География",
+                         "short_name":  "География",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  12,
+                         "code":  "ИНФ",
+                         "name":  "Информатика",
+                         "short_name":  "Информатика",
+                         "required_room_type":  "computer"
+                     },
+                     {
+                         "id":  13,
+                         "code":  "ИНЯЗ",
+                         "name":  "Иностранный язык",
+                         "short_name":  "Иностранный язык",
+                         "required_room_type":  "language"
+                     },
+                     {
+                         "id":  14,
+                         "code":  "ОБИЗР",
+                         "name":  "Основы безопасности и защиты Родины",
+                         "short_name":  "ОБиЗР",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  15,
+                         "code":  "БЖД",
+                         "name":  "Безопасность жизнедеятельности",
+                         "short_name":  "БЖД",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  16,
+                         "code":  "ФК",
+                         "name":  "Физическая культура",
+                         "short_name":  "ФК",
+                         "required_room_type":  "gym"
+                     },
+                     {
+                         "id":  17,
+                         "code":  "МДК0101",
+                         "name":  "МДК 01.01",
+                         "short_name":  "МДК 01.01",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  18,
+                         "code":  "МДК0102",
+                         "name":  "МДК 01.02",
+                         "short_name":  "МДК 01.02",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  19,
+                         "code":  "МДК0201",
+                         "name":  "МДК 02.01",
+                         "short_name":  "МДК 02.01",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  20,
+                         "code":  "МДК0202",
+                         "name":  "МДК 02.02",
+                         "short_name":  "МДК 02.02",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  21,
+                         "code":  "ТЕХМЕХ",
+                         "name":  "Техническая механика",
+                         "short_name":  "Техническая механика",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  22,
+                         "code":  "ИТПД",
+                         "name":  "Информационные технологии в проф. деятельности",
+                         "short_name":  "ИТПД",
+                         "required_room_type":  "computer"
+                     },
+                     {
+                         "id":  23,
+                         "code":  "ПОПД",
+                         "name":  "Правовые основы проф. деятельности",
+                         "short_name":  "ПОПД",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  24,
+                         "code":  "КУРС",
+                         "name":  "Курсовой проект",
+                         "short_name":  "Курсовой проект",
+                         "required_room_type":  "classroom"
+                     },
+                     {
+                         "id":  25,
+                         "code":  "ПРАКТ",
+                         "name":  "Учебная практика",
+                         "short_name":  "Учебная практика",
+                         "required_room_type":  "workshop"
+                     }
+                 ],
+    "teachers":  [
+                     {
+                         "id":  1,
+                         "full_name":  "Иванов И.И.",
+                         "short_name":  "Иванов И.И.",
+                         "email":  "teacher1@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  2,
+                         "full_name":  "Петрова А.С.",
+                         "short_name":  "Петрова А.С.",
+                         "email":  "teacher2@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  3,
+                         "full_name":  "Смирнов А.В.",
+                         "short_name":  "Смирнов А.В.",
+                         "email":  "teacher3@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  4,
+                         "full_name":  "Кузнецова Е.П.",
+                         "short_name":  "Кузнецова Е.П.",
+                         "email":  "teacher4@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  5,
+                         "full_name":  "Соколов Д.Н.",
+                         "short_name":  "Соколов Д.Н.",
+                         "email":  "teacher5@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  6,
+                         "full_name":  "Морозова О.И.",
+                         "short_name":  "Морозова О.И.",
+                         "email":  "teacher6@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  7,
+                         "full_name":  "Васильев С.М.",
+                         "short_name":  "Васильев С.М.",
+                         "email":  "teacher7@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  8,
+                         "full_name":  "Попова Н.Ю.",
+                         "short_name":  "Попова Н.Ю.",
+                         "email":  "teacher8@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  9,
+                         "full_name":  "Новиков К.Д.",
+                         "short_name":  "Новиков К.Д.",
+                         "email":  "teacher9@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  10,
+                         "full_name":  "Федорова М.А.",
+                         "short_name":  "Федорова М.А.",
+                         "email":  "teacher10@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  11,
+                         "full_name":  "Брызгалов Д.А.",
+                         "short_name":  "Брызгалов Д.А.",
+                         "email":  "teacher11@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  12,
+                         "full_name":  "Жукова Е.П.",
+                         "short_name":  "Жукова Е.П.",
+                         "email":  "teacher12@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  13,
+                         "full_name":  "Печенкина С.С.",
+                         "short_name":  "Печенкина С.С.",
+                         "email":  "teacher13@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  14,
+                         "full_name":  "Лебедев А.Н.",
+                         "short_name":  "Лебедев А.Н.",
+                         "email":  "teacher14@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  15,
+                         "full_name":  "Козлова Т.В.",
+                         "short_name":  "Козлова Т.В.",
+                         "email":  "teacher15@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  16,
+                         "full_name":  "Семенов В.П.",
+                         "short_name":  "Семенов В.П.",
+                         "email":  "teacher16@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  17,
+                         "full_name":  "Егорова И.С.",
+                         "short_name":  "Егорова И.С.",
+                         "email":  "teacher17@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  18,
+                         "full_name":  "Павлов Г.М.",
+                         "short_name":  "Павлов Г.М.",
+                         "email":  "teacher18@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  19,
+                         "full_name":  "Ковалева Д.А.",
+                         "short_name":  "Ковалева Д.А.",
+                         "email":  "teacher19@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     },
+                     {
+                         "id":  20,
+                         "full_name":  "Григорьев А.С.",
+                         "short_name":  "Григорьев А.С.",
+                         "email":  "teacher20@ktkpp.ru",
+                         "max_hours_per_day":  6,
+                         "is_active":  true
+                     }
+                 ],
+    "curriculum_workload":  [
+                                {
+                                    "id":  1,
+                                    "group_id":  1,
+                                    "subject_id":  1,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  2,
+                                    "group_id":  1,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  3,
+                                    "group_id":  1,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  4,
+                                    "group_id":  1,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  5,
+                                    "group_id":  1,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  6,
+                                    "group_id":  1,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  7,
+                                    "group_id":  2,
+                                    "subject_id":  1,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  8,
+                                    "group_id":  2,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  9,
+                                    "group_id":  2,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  10,
+                                    "group_id":  2,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  11,
+                                    "group_id":  2,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  12,
+                                    "group_id":  2,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  13,
+                                    "group_id":  3,
+                                    "subject_id":  1,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  14,
+                                    "group_id":  3,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  15,
+                                    "group_id":  3,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  16,
+                                    "group_id":  3,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  17,
+                                    "group_id":  3,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  18,
+                                    "group_id":  3,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  19,
+                                    "group_id":  4,
+                                    "subject_id":  1,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  20,
+                                    "group_id":  4,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  21,
+                                    "group_id":  4,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  22,
+                                    "group_id":  4,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  23,
+                                    "group_id":  4,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  24,
+                                    "group_id":  4,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  25,
+                                    "group_id":  5,
+                                    "subject_id":  1,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  26,
+                                    "group_id":  5,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  27,
+                                    "group_id":  5,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  28,
+                                    "group_id":  5,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  29,
+                                    "group_id":  5,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  30,
+                                    "group_id":  5,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  31,
+                                    "group_id":  6,
+                                    "subject_id":  1,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  32,
+                                    "group_id":  6,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  33,
+                                    "group_id":  6,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  34,
+                                    "group_id":  6,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  35,
+                                    "group_id":  6,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  36,
+                                    "group_id":  6,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  37,
+                                    "group_id":  7,
+                                    "subject_id":  1,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  38,
+                                    "group_id":  7,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  39,
+                                    "group_id":  7,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  40,
+                                    "group_id":  7,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  41,
+                                    "group_id":  7,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  42,
+                                    "group_id":  7,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  43,
+                                    "group_id":  8,
+                                    "subject_id":  1,
+                                    "teacher_id":  9,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  44,
+                                    "group_id":  8,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  45,
+                                    "group_id":  8,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  46,
+                                    "group_id":  8,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  47,
+                                    "group_id":  8,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  48,
+                                    "group_id":  8,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  49,
+                                    "group_id":  9,
+                                    "subject_id":  1,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  50,
+                                    "group_id":  9,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  51,
+                                    "group_id":  9,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  52,
+                                    "group_id":  9,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  53,
+                                    "group_id":  9,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  54,
+                                    "group_id":  9,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  55,
+                                    "group_id":  10,
+                                    "subject_id":  1,
+                                    "teacher_id":  11,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  56,
+                                    "group_id":  10,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  57,
+                                    "group_id":  10,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  58,
+                                    "group_id":  10,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  59,
+                                    "group_id":  10,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  60,
+                                    "group_id":  10,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  61,
+                                    "group_id":  11,
+                                    "subject_id":  1,
+                                    "teacher_id":  12,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  62,
+                                    "group_id":  11,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  63,
+                                    "group_id":  11,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  64,
+                                    "group_id":  11,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  65,
+                                    "group_id":  11,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  66,
+                                    "group_id":  11,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  67,
+                                    "group_id":  12,
+                                    "subject_id":  1,
+                                    "teacher_id":  13,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  68,
+                                    "group_id":  12,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  69,
+                                    "group_id":  12,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  70,
+                                    "group_id":  12,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  71,
+                                    "group_id":  12,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  72,
+                                    "group_id":  12,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  73,
+                                    "group_id":  13,
+                                    "subject_id":  1,
+                                    "teacher_id":  14,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  74,
+                                    "group_id":  13,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  75,
+                                    "group_id":  13,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  76,
+                                    "group_id":  13,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  77,
+                                    "group_id":  13,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  78,
+                                    "group_id":  13,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  79,
+                                    "group_id":  14,
+                                    "subject_id":  1,
+                                    "teacher_id":  15,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  80,
+                                    "group_id":  14,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  81,
+                                    "group_id":  14,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  82,
+                                    "group_id":  14,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  83,
+                                    "group_id":  14,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  84,
+                                    "group_id":  14,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  85,
+                                    "group_id":  15,
+                                    "subject_id":  1,
+                                    "teacher_id":  16,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  86,
+                                    "group_id":  15,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  87,
+                                    "group_id":  15,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  88,
+                                    "group_id":  15,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  89,
+                                    "group_id":  15,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  90,
+                                    "group_id":  15,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  91,
+                                    "group_id":  16,
+                                    "subject_id":  1,
+                                    "teacher_id":  17,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  92,
+                                    "group_id":  16,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  93,
+                                    "group_id":  16,
+                                    "subject_id":  3,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  94,
+                                    "group_id":  16,
+                                    "subject_id":  12,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  95,
+                                    "group_id":  16,
+                                    "subject_id":  13,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  96,
+                                    "group_id":  16,
+                                    "subject_id":  6,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  97,
+                                    "group_id":  17,
+                                    "subject_id":  2,
+                                    "teacher_id":  18,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  98,
+                                    "group_id":  17,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  99,
+                                    "group_id":  17,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  100,
+                                    "group_id":  17,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  101,
+                                    "group_id":  17,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  102,
+                                    "group_id":  17,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  103,
+                                    "group_id":  18,
+                                    "subject_id":  2,
+                                    "teacher_id":  19,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  104,
+                                    "group_id":  18,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  105,
+                                    "group_id":  18,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  106,
+                                    "group_id":  18,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  107,
+                                    "group_id":  18,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  108,
+                                    "group_id":  18,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  109,
+                                    "group_id":  19,
+                                    "subject_id":  2,
+                                    "teacher_id":  20,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  110,
+                                    "group_id":  19,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  111,
+                                    "group_id":  19,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  112,
+                                    "group_id":  19,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  113,
+                                    "group_id":  19,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  114,
+                                    "group_id":  19,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  115,
+                                    "group_id":  20,
+                                    "subject_id":  2,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  116,
+                                    "group_id":  20,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  117,
+                                    "group_id":  20,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  118,
+                                    "group_id":  20,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  119,
+                                    "group_id":  20,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  120,
+                                    "group_id":  20,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  121,
+                                    "group_id":  21,
+                                    "subject_id":  2,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  122,
+                                    "group_id":  21,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  123,
+                                    "group_id":  21,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  124,
+                                    "group_id":  21,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  125,
+                                    "group_id":  21,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  126,
+                                    "group_id":  21,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  127,
+                                    "group_id":  22,
+                                    "subject_id":  2,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  128,
+                                    "group_id":  22,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  129,
+                                    "group_id":  22,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  130,
+                                    "group_id":  22,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  131,
+                                    "group_id":  22,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  132,
+                                    "group_id":  22,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  133,
+                                    "group_id":  23,
+                                    "subject_id":  2,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  134,
+                                    "group_id":  23,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  135,
+                                    "group_id":  23,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  136,
+                                    "group_id":  23,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  137,
+                                    "group_id":  23,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  138,
+                                    "group_id":  23,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  139,
+                                    "group_id":  24,
+                                    "subject_id":  2,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  140,
+                                    "group_id":  24,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  141,
+                                    "group_id":  24,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  142,
+                                    "group_id":  24,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  143,
+                                    "group_id":  24,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  144,
+                                    "group_id":  24,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  145,
+                                    "group_id":  25,
+                                    "subject_id":  2,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  146,
+                                    "group_id":  25,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  147,
+                                    "group_id":  25,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  148,
+                                    "group_id":  25,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  149,
+                                    "group_id":  25,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  150,
+                                    "group_id":  25,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  151,
+                                    "group_id":  26,
+                                    "subject_id":  2,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  152,
+                                    "group_id":  26,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  153,
+                                    "group_id":  26,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  154,
+                                    "group_id":  26,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  155,
+                                    "group_id":  26,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  156,
+                                    "group_id":  26,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  157,
+                                    "group_id":  27,
+                                    "subject_id":  2,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  158,
+                                    "group_id":  27,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  159,
+                                    "group_id":  27,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  160,
+                                    "group_id":  27,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  161,
+                                    "group_id":  27,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  162,
+                                    "group_id":  27,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  163,
+                                    "group_id":  28,
+                                    "subject_id":  2,
+                                    "teacher_id":  9,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  164,
+                                    "group_id":  28,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  165,
+                                    "group_id":  28,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  166,
+                                    "group_id":  28,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  167,
+                                    "group_id":  28,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  168,
+                                    "group_id":  28,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  169,
+                                    "group_id":  29,
+                                    "subject_id":  2,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  170,
+                                    "group_id":  29,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  171,
+                                    "group_id":  29,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  172,
+                                    "group_id":  29,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  173,
+                                    "group_id":  29,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  174,
+                                    "group_id":  29,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  175,
+                                    "group_id":  30,
+                                    "subject_id":  2,
+                                    "teacher_id":  11,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  176,
+                                    "group_id":  30,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  177,
+                                    "group_id":  30,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  178,
+                                    "group_id":  30,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  179,
+                                    "group_id":  30,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  180,
+                                    "group_id":  30,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  181,
+                                    "group_id":  31,
+                                    "subject_id":  2,
+                                    "teacher_id":  12,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  182,
+                                    "group_id":  31,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  183,
+                                    "group_id":  31,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  184,
+                                    "group_id":  31,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  185,
+                                    "group_id":  31,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  186,
+                                    "group_id":  31,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  187,
+                                    "group_id":  32,
+                                    "subject_id":  2,
+                                    "teacher_id":  13,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  188,
+                                    "group_id":  32,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  189,
+                                    "group_id":  32,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  190,
+                                    "group_id":  32,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  191,
+                                    "group_id":  32,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  192,
+                                    "group_id":  32,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  193,
+                                    "group_id":  33,
+                                    "subject_id":  2,
+                                    "teacher_id":  14,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  194,
+                                    "group_id":  33,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  195,
+                                    "group_id":  33,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  196,
+                                    "group_id":  33,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  197,
+                                    "group_id":  33,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  198,
+                                    "group_id":  33,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  199,
+                                    "group_id":  34,
+                                    "subject_id":  2,
+                                    "teacher_id":  15,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  200,
+                                    "group_id":  34,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  201,
+                                    "group_id":  34,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  202,
+                                    "group_id":  34,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  203,
+                                    "group_id":  34,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  204,
+                                    "group_id":  34,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  205,
+                                    "group_id":  35,
+                                    "subject_id":  2,
+                                    "teacher_id":  16,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  206,
+                                    "group_id":  35,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  207,
+                                    "group_id":  35,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  208,
+                                    "group_id":  35,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  209,
+                                    "group_id":  35,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  210,
+                                    "group_id":  35,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  211,
+                                    "group_id":  36,
+                                    "subject_id":  2,
+                                    "teacher_id":  17,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  212,
+                                    "group_id":  36,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  213,
+                                    "group_id":  36,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  214,
+                                    "group_id":  36,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  215,
+                                    "group_id":  36,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  216,
+                                    "group_id":  36,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  217,
+                                    "group_id":  37,
+                                    "subject_id":  2,
+                                    "teacher_id":  18,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  218,
+                                    "group_id":  37,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  219,
+                                    "group_id":  37,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  220,
+                                    "group_id":  37,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  221,
+                                    "group_id":  37,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  222,
+                                    "group_id":  37,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  223,
+                                    "group_id":  38,
+                                    "subject_id":  2,
+                                    "teacher_id":  19,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  224,
+                                    "group_id":  38,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  225,
+                                    "group_id":  38,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  226,
+                                    "group_id":  38,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  227,
+                                    "group_id":  38,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  228,
+                                    "group_id":  38,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  229,
+                                    "group_id":  39,
+                                    "subject_id":  2,
+                                    "teacher_id":  20,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  230,
+                                    "group_id":  39,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  231,
+                                    "group_id":  39,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  232,
+                                    "group_id":  39,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  233,
+                                    "group_id":  39,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  234,
+                                    "group_id":  39,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  235,
+                                    "group_id":  40,
+                                    "subject_id":  2,
+                                    "teacher_id":  1,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  236,
+                                    "group_id":  40,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  237,
+                                    "group_id":  40,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  238,
+                                    "group_id":  40,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  239,
+                                    "group_id":  40,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  240,
+                                    "group_id":  40,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  241,
+                                    "group_id":  41,
+                                    "subject_id":  2,
+                                    "teacher_id":  2,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  242,
+                                    "group_id":  41,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  243,
+                                    "group_id":  41,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  244,
+                                    "group_id":  41,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  245,
+                                    "group_id":  41,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  246,
+                                    "group_id":  41,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  247,
+                                    "group_id":  42,
+                                    "subject_id":  2,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  248,
+                                    "group_id":  42,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  249,
+                                    "group_id":  42,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  250,
+                                    "group_id":  42,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  251,
+                                    "group_id":  42,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  252,
+                                    "group_id":  42,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  253,
+                                    "group_id":  43,
+                                    "subject_id":  2,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  254,
+                                    "group_id":  43,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  255,
+                                    "group_id":  43,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  256,
+                                    "group_id":  43,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  257,
+                                    "group_id":  43,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  258,
+                                    "group_id":  43,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  259,
+                                    "group_id":  44,
+                                    "subject_id":  2,
+                                    "teacher_id":  5,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  260,
+                                    "group_id":  44,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  261,
+                                    "group_id":  44,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  262,
+                                    "group_id":  44,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  263,
+                                    "group_id":  44,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  264,
+                                    "group_id":  44,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  265,
+                                    "group_id":  45,
+                                    "subject_id":  2,
+                                    "teacher_id":  6,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  1
+                                },
+                                {
+                                    "id":  266,
+                                    "group_id":  45,
+                                    "subject_id":  16,
+                                    "teacher_id":  7,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2,
+                                    "preferred_room_id":  46
+                                },
+                                {
+                                    "id":  267,
+                                    "group_id":  45,
+                                    "subject_id":  17,
+                                    "teacher_id":  3,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  3
+                                },
+                                {
+                                    "id":  268,
+                                    "group_id":  45,
+                                    "subject_id":  18,
+                                    "teacher_id":  4,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  269,
+                                    "group_id":  45,
+                                    "subject_id":  22,
+                                    "teacher_id":  8,
+                                    "lesson_type":  "split",
+                                    "pairs_per_week":  2
+                                },
+                                {
+                                    "id":  270,
+                                    "group_id":  45,
+                                    "subject_id":  23,
+                                    "teacher_id":  10,
+                                    "lesson_type":  "whole_group",
+                                    "pairs_per_week":  2
+                                }
+                            ],
+    "availability_constraints":  [
+
+                                 ]
+}

@@ -1,0 +1,26 @@
+# Математический решатель (Google OR-Tools CP-SAT)
+ortools>=9.10.4067
+
+# База данных и ORM (PostgreSQL / SQLite)
+sqlalchemy>=2.0.35
+psycopg2-binary>=2.9.9
+asyncpg>=0.29.0
+
+# Модели данных и переменные окружения
+pydantic>=2.9.2
+pydantic-settings>=2.5.2
+python-dotenv>=1.0.1
+
+# Модули экспорта расписания (Excel и PDF)
+openpyxl>=3.1.5
+reportlab>=4.2.5
+
+# Веб-сервер вебхуков и боты (FastAPI, aiogram)
+fastapi>=0.115.0
+uvicorn>=0.31.0
+aiogram>=3.13.1
+httpx>=0.27.2
+
+# Модульное тестирование
+pytest>=8.3.3
+pytest-asyncio>=0.24.0
